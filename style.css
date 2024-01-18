@@ -1,0 +1,13 @@
+/* Basic styling for the login form */
+.container {
+    /* Add your desired layout and styling here */
+  }
+  
+  .form-group {
+    margin-bottom: 15px;
+  }
+  
+  .error-message {
+    color: red;
+    font-size: 12px;
+  }
